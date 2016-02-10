@@ -29,6 +29,8 @@ touch notes.txt
 creates a file named notes.txt
 
 ls
+# lists files in wd
+
 cd notebook
 mkdir notebook
 cd projects
