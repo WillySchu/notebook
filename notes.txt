@@ -25,6 +25,8 @@ open notes.txt
 
 history
 rm notes.txt
+# deletes notes.txt
+
 touch notes.txt
 creates a file named notes.txt
 
