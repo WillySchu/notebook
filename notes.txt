@@ -1,0 +1,174 @@
+ls ~
+# lists content of home directory
+
+man sort
+# prints manual for sort
+
+cat notes.txt
+# prints contents of notes.txt to terminal
+
+history | sort > notes.txt
+# sorts the output of history and puts it in notes.txt
+
+history | sort
+# sorts the output of history
+
+ll
+# same as ls -lh
+
+history > notes.txt
+# takes the output of history and puts it in notes.txt
+
+history notes.txt
+open notes.txt
+history
+rm notes.txt
+touch notes.txt
+ls
+cd notebook
+mkdir notebook
+cd projects
+~
+surge
+cp landing.html index.html
+cd Galvanize/prework/mywebsite/web2
+man take
+clear
+cd ~
+tree
+..
+cd Galvanize/prework/mywebsite/
+cd ..
+cd Documents/
+cd ,
+la
+popd
+pwd
+open IMG_1162.JPG
+pushd Galvanize/prework/mywebsite/web2
+web2/
+mywebsite/
+prework/
+index.html
+Galvanize/
+man pushd
+open ..
+ls ..
+cd users
+cd..
+cd ../
+man ls
+ls Applications/
+ls -l
+ls -L
+/
+tree -L 2
+tree -aL 1
+tree -L 1
+brew install tree
+cd Volumes/
+open /
+ls -l@
+ls -i
+ls -F
+ls -d
+sudo ls
+ll -T
+ls Galvanize/prework/
+ls -H galvanize/prework
+ls -f
+man -f
+ls -@l
+ls -@
+ls -r
+ls -lt
+ls -t
+cd Galvanize/
+open ~
+open .
+cd Galvanize/prework/
+../../../..
+which whoami
+whoami
+atom .
+rm CNAME
+atom CNAME
+cd galvanize/prework/mywebsite/web2
+cd ../..
+git commit -m "Add a CNAME"
+git add CNAME
+touch CNAME
+git commit -m "Add tiny web page"
+git add index.html
+open index.html
+touch index.html
+git init
+cd willyschu.surge.sh/
+mkdir willyschu.surge.sh
+mkdir ~/Projects
+surge -V
+npm install -g surge
+node
+node -v
+rm ~/Desktop/test.js
+node ~/Desktop/test.js
+atom ~/Desktop/test.js
+'cd Galvanize' | sh
+sh -c help
+sh --help
+curl -fsSL https://git.io/vgqFH | sh
+git config --global user.email 'meintodengel@gmail.com'
+git config --global user.email 'willjschumacher@gmail.com'
+git config --global user.name 'Will Schumacher'
+which git
+git --version
+brew install git
+git -v
+atom photography.html
+which open
+which which
+echo $PATH
+about.css
+echo $P
+echo $EDITOR
+atom ~/.config/fish/config.fish
+atom photography.html
+nove -v
+ode -v
+brew install node
+git
+which cd
+which echo
+echo $EDITOR
+set -x EDITOR 'atom -w'
+# Atom
+open photography.html
+open IMG_0024.jpg
+cd JPEG
+cd resize
+cd photos
+mkdir resize
+cd web2
+cd mywebsite/
+cd prework/
+bash
+cd .config
+cd wills
+wills
+cd Users
+brew info fish
+fish_update_completions
+curl -fsSL https://git.io/vgqFU | ruby
+cp main.css ~/Users/wills/galvanize/prework
+cd assets/stylesheets
+cd shayhowe
+open imdb.html
+cd prework
+mv assets shayhowe
+mv index.html shayhowe
+mkdir shayhowe
+open index.html
+mkdir stylesheets
+cd assets
+mkdir assets
+cd galvanize
