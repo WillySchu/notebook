@@ -1,3 +1,7 @@
+#github is a great place to store your timeline
+git push -u origin master
+# push to origin master branch on github
+
 ls ~
 # lists content of home directory
 
