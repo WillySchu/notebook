@@ -21,9 +21,13 @@ history > notes.txt
 
 history notes.txt
 open notes.txt
+#opens notes.txt in textedit
+
 history
 rm notes.txt
 touch notes.txt
+creates a file named notes.txt
+
 ls
 cd notebook
 mkdir notebook
